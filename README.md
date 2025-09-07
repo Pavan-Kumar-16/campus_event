@@ -12,4 +12,7 @@ Student ───< Registration >─── Event
 
 Registration ───< Attendance
 
+AI Conversations
 
+
+<img width="1370" height="729" alt="Screenshot 2025-09-07 140412" src="https://github.com/user-attachments/assets/6ceeb6b9-6817-4d97-a4d7-0317e021c328" />
