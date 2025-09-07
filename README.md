@@ -16,6 +16,7 @@ AI Conversations
 
 <img width="881" height="557" alt="Screenshot 2025-09-07 144920" src="https://github.com/user-attachments/assets/d3446a51-f3de-4f5d-8872-999b40084c8f" />
 <img width="1094" height="629" alt="Screenshot 2025-09-07 140422" src="https://github.com/user-attachments/assets/ab36b6f0-d786-4d64-af47-42bda325c08f" />
+<img width="1017" height="579" alt="Screenshot 2025-09-07 140434" src="https://github.com/user-attachments/assets/576ddd4c-a2ab-4735-a43d-033ef844cc46" />
 <img width="979" height="722" alt="Screenshot 2025-09-07 140517" src="https://github.com/user-attachments/assets/9632d91e-4daa-4906-85eb-84be7ed9deec" />
 <img width="920" height="683" alt="Screenshot 2025-09-07 140547" src="https://github.com/user-attachments/assets/2faeda34-d3fa-4d8d-850c-3797d0415310" />
 <img width="1010" height="711" alt="Screenshot 2025-09-07 140600" src="https://github.com/user-attachments/assets/db961436-bebe-4fea-9e65-01440b546065" />
